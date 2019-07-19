@@ -7,7 +7,8 @@ var incorrect = 0;
 
 $("startBut").on("click", function() {
 
-    var Timer = setTimeout(myFunction, 30000);
+    var timer = setTimeout(gradeQuiz, 30000);
+    $("#timer").append(timer);
 
 function createQuiz(questions, answerChoices) {
     var answerChoice1 = ["Jonathan Stewart", "Stephen Davis", "DeAngelo Williams", "Christian McCaffrey"];
