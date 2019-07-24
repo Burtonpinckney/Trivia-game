@@ -3,10 +3,23 @@ body {
 }
 
 .container {
-    padding: 20;
-    margin: 20;
+    padding: 20px;
+    margin: 7.5%;
     width: 85%;
-    height: 85%;
+    height: 85vh;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: chartreuse;
+}
+
+.questions {
+    display: none;
+}
+.results {
+    display: none;
+}
+#timer{
+    display: none;
+}
+#timesUp{
+    display: none;
 }
