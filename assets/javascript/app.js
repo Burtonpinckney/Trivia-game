@@ -1,10 +1,10 @@
-var answerKey = ["1", "2", "4"];
+var answerKey = ["1", "2", "4", "3", "3", "4", "1", "2", "4", "3", "1", "3", "2", "1", "4", "2", "3", "3", "2", "4"];
 var userAnswers = "";
 var correct
 var incorrect
 var runClock
 $("#startBut").on("click", function() {
-    var count = 16
+    var count = 121
     runClock=true
     correct = 0
     incorrect = 0
