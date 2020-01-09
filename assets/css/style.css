@@ -2,13 +2,24 @@ body {
     background-color: black;
 }
 
+header {
+    color: deepskyblue;
+    font-style: italic;
+    font-family: fantasy;
+    font-size: xx-large;
+    text-align: center;
+}
+
 .container {
+    background-image: url(../images/Plogoblue.jpg);
+    background-size: contain;
+    background-position: top;
+    background-repeat: repeat;
     padding: 20px;
-    margin: 7.5%;
+    margin: 5%;
     width: 85%;
-    height: 275vh;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: blue;
+    height: 2100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;    
 }
 
 .questions {
