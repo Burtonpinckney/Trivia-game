@@ -19,7 +19,12 @@ header {
     margin: 5%;
     width: 85%;
     height: 2100px;
-    font-family: Georgia, 'Times New Roman', Times, serif;    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(250, 14, 6);
+}
+
+#title {
+    color: black;
 }
 
 .questions {
@@ -27,10 +32,13 @@ header {
 }
 .results {
     display: none;
+    color: black;
 }
 #timer{
     display: none;
+    color: black;
 }
 #timesUp{
     display: none;
+    color: black;
 }
