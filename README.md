@@ -13,3 +13,9 @@ This is a trivia game designed to test your knowledge of the NFL's Carolina Pant
 ![Pantriviapg2](https://user-images.githubusercontent.com/51678140/72372502-6abd9f00-36d4-11ea-982e-6e2f7b149622.jpg)
 
 ## Finishing Page:
+
+![Pantriviaresult](https://user-images.githubusercontent.com/51678140/72372938-57f79a00-36d5-11ea-8e1b-8793c79be2a2.jpg)
+
+## Programs used:
+
+Javascript, HTML, CSS
