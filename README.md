@@ -4,7 +4,7 @@
 
 This is a trivia game designed to test your knowledge of the NFL's Carolina Panthers. This is a timed game that gives you 2 minutes to answer up to 20 questions about the Panthers. All questions are set up with 4 multiple choice answers that use a drop down format. Simply click on the 'Start Quiz' to get going. Once that button is cliked the 20 questions appear and the 2 minute timer starts. Once you have answered all 20 questions click the 'Submit' button to stop the timer and get your results. The results are displayed at the top of the page after the submit button is clicked and will show how many questions were answered correctly and incorrectly. If you do not finish within the 2 minute time period the game will automatically stop, render a message that says 'Times Up!' and give the results of your answers. If you wish to try again you can by simply re-clicking the 'Start Quiz' button that appears on the finishing page and start over. Using this method will relist your previous answers. You can change any of your answers before submitting again for updated results. If you wish to erase your answers and start new then simply refresh the page.
 
-## Demo: https://burtonpinckney.github.io/Trivia-game/
+### Demo: https://burtonpinckney.github.io/Trivia-game/
 
 ## Opening Page:
 
