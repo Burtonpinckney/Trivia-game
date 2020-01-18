@@ -4,7 +4,7 @@ var correct
 var incorrect
 var runClock
 $("#startBut").on("click", function() {
-    var count = 121
+    var count = 241
     runClock=true
     correct = 0
     incorrect = 0
